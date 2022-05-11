@@ -1,6 +1,5 @@
 package com.springsecurity.security.jwt;
 
-import java.security.SignatureException;
 import java.util.Date;
 
 import org.slf4j.Logger;
